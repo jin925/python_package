@@ -1,6 +1,8 @@
 ## 数据处理
 pandas
 
+numpy
+
 ## 爬虫相关
 requests
 
