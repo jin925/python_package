@@ -27,3 +27,8 @@ pymupdf
 pdfplumber
 
 PyPDF2
+
+## 电子书
+pypandoc
+
+EbookLib
